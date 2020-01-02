@@ -1,4 +1,8 @@
-# Hugo Future Imperfect Slim
+# Hugo Future Imperfect Slim - Modified by pcolazurdo@yahoo.com
+The present Theme is a modified version of Hugo Future Imperfect Slim by pacollins shared under CC 3.0 unported / the modifications are customizations needed to better render some of the content as the original theme doesn't allow for simple external customizations
+** Original URL: https://github.com/pacollins/hugo-future-imperfect-slim
+
+
 
 **Hugo Future Imperfect** *Slim* is a theme based on
 [jpescador's](https://github.com/jpescador/) port of
